@@ -2,7 +2,7 @@
  
 List of common Datacenters / VPN / Socks providers. 
 
-Latest update: `Friday 01-12-2023 19:14:32 UTC` `Friday 01-12-2023 18:15:25 UTC` 
+Latest update: `Friday 01-12-2023 19:14:32 UTC`
 
 ATTENTION: This list doesn't include all Datacenters, VPNs & Socks ips, 
 but should include the vast majority of common ones.
