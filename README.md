@@ -1,11 +1,11 @@
 # Datacenters, VPN and Socks IPs
  
-List of common Datacenters / VPN / Socks providers. 
+Datacenters / Bots / VPN / Socks ips list.
 
 Latest update: `Sunday 03-12-2023 19:02:16 UTC` 
 
-ATTENTION: This list doesn't include all Datacenters, VPNs & Socks ips, 
+ATTENTION: This repository doesn't include all Datacenters, VPNs, Bots & Socks ips, 
 but should include the vast majority of common ones.
 
 # Credits
-ejrv, X4BNet and TheSpeedX.
+naoestu, brahma-dev, scriptzteam, ejrv, X4BNet and TheSpeedX
