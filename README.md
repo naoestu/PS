@@ -1,4 +1,4 @@
-# Datacenters, Bots, VPNs and Socks IPs
+# Datacenters, VPNs, Bots and Socks IPs
  
 Datacenters / Bots / VPN / Socks ips list
 
