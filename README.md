@@ -2,7 +2,7 @@
  
 Datacenters / Bots / VPN / Socks ips list
 
-Latest update: `Tuesday 19-12-2023 21:00:25 UTC` 
+Latest update: `Wednesday 20-12-2023 00:00:27 UTC` 
 
 ATTENTION: This repository doesn't include all Datacenters, VPNs, Bots & Socks ips, 
 but should include the vast majority of common ones.
